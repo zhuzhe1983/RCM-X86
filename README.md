@@ -1,3 +1,15 @@
+# Switch dongle RCM-X86 
+RCM-X86 is MOD of Arduino Zero, 
+It will send the Payload file to  NINTENDO SWITCH to run the Custom Firmware.(like Atmosphere,TX OS or others)
+It was easy to change the dongle Firmware by PC,MAC or OS, using the UF2 files.
+
+we have two version hardware:
+* external dongle (with a battery, chagre 30minutes can payload about 500 times in 30 days.)
+* internal dongle (solder it into the switch with 5-6 wire install,auto payload when the switch power on)
+
+
+
+
 # RCM-X86注入工具升级教程:
 (支持WIN7,WIN10,MAC,Linux)
 * 通过microUSB线(旧版本),或者USB口接到电脑
